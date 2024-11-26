@@ -1,4 +1,4 @@
-# mogitate
+# PiGLy
 
 ## 環境構築
 
