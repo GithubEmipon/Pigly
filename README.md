@@ -4,7 +4,7 @@
 
 **Docker ビルド**
 
-1. `git clone git@github.com:GithubEmipon/pigly.git
+1. git@github.com:GithubEmipon/Pigly.git
 2. DockerDesktop アプリを立ち上げる
 3. `docker-compose up -d --build`
 
@@ -41,12 +41,6 @@ php artisan key:generate
 php artisan migrate
 ```
 
-7. シーディングの実行
-
-```bash
-php artisan db:seed
-```
-
 ## 使用技術(実行環境)
 
 - PHP8.3.0
@@ -59,6 +53,6 @@ php artisan db:seed
 
 ## URL
 
-- 開発環境：http://localhost/products
+- 開発環境：http://localhost/weight_logs
 
 - phpMyAdmin:：http://localhost:8080/
