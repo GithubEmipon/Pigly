@@ -40,6 +40,9 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
+7. シーディんぐの実行
+```bash
+php artisan db:seed
 
 ## 使用技術(実行環境)
 
